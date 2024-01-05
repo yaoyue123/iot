@@ -41,7 +41,7 @@ print(r.content)
 ## Trigger details
 
 See video content
-<video src="https://github.com/yaoyue123/iot/blob/main/Tenda/A15/setBlackRule.mp4" width="640" height="480" controls></video>
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1704443494/video_to_markdown/images/youtube--Dr2DSNPQKPk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Dr2DSNPQKPk "")
 
 
 ## Solution
