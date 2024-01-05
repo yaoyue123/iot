@@ -40,7 +40,7 @@ print(res.content)
 ## Trigger details
 
 See video content
-<video src="https://raw.githubusercontent.com/yaoyue123/iot/main/Tenda/A15/devname.mp4" width="640" height="480" controls></video>
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1704443694/video_to_markdown/images/youtube--5fkQweoMJZE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/5fkQweoMJZE "")
 
 ## Solution
 
