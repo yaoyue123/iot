@@ -39,6 +39,7 @@ print(res.content)
 ## Trigger details
 
 See video content
+<video src="https://raw.githubusercontent.com/yaoyue123/iot/main/Tenda/A15/mac.mp4" width="640" height="480" controls></video>
 
 ## Solution
 

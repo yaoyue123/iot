@@ -49,6 +49,7 @@ print(res)
 ## Trigger details
 
 See video content
+<video src="https://raw.githubusercontent.com/yaoyue123/iot/main/Tenda/A15/wifiextraset.mp4" width="640" height="480" controls></video>
 
 ## Solution
 
