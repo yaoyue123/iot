@@ -40,6 +40,7 @@ print(r.content)
 
 ## Trigger details
 
+<video src="https://github.com/yaoyue123/iot/blob/main/Tenda/A15/setBlackRule.mp4" width="640" height="480" controls></video>
 See video content
 
 ## Solution
