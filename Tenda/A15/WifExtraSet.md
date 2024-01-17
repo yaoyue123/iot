@@ -50,7 +50,12 @@ print(res)
 
 See video content
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1704443583/video_to_markdown/images/youtube---j6ZD_bxYnw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/-j6ZD_bxYnw "")
+
 ## Solution
 
 The vendor has not yet provided a fix for the vulnerability, please watch the vendor's homepage for updates:
 https://www.tendacn.com/us/product/a15.html
+
+## Acknowledgment
+
+The vulnerability belongs to Chenjun Ma from Wuhan University.

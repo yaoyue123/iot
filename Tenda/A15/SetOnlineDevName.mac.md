@@ -45,3 +45,7 @@ See video content
 
 The vendor has not yet provided a fix for the vulnerability, please watch the vendor's homepage for updates:
 https://www.tendacn.com/us/product/a15.html
+
+## Acknowledgment
+
+The vulnerability belongs to Chenjun Ma from Wuhan University.
