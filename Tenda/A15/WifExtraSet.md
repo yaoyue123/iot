@@ -31,7 +31,7 @@ ip = '192.168.159.128'
 url = f'http://{ip}/goform/WifiExtraSet'
 
 payload = {
-  
+    'configured2_4g': 'true',
     'configured5g': 'true',
     'originSsid2_4g': '1234',
     'encode2_4g': '1234',
