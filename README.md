@@ -1,4 +1,4 @@
-# iot
+# cve list
 
 ## Tenda
 [CVE-2024-0531](https://nvd.nist.gov/vuln/detail/CVE-2024-0531)
@@ -16,3 +16,12 @@
 [CVE-2024-0930](https://nvd.nist.gov/vuln/detail/CVE-2024-0930)
 [CVE-2024-0931](https://nvd.nist.gov/vuln/detail/CVE-2024-0931)
 [CVE-2024-0932](https://nvd.nist.gov/vuln/detail/CVE-2024-0932)
+
+# cnvd list
+## Tenda
+[CNVD-2024-05406](https://www.cnvd.org.cn/flaw/show/CNVD-2024-05406)
+[CNVD-2024-05407](https://www.cnvd.org.cn/flaw/show/CNVD-2024-05407)
+[CNVD-2024-05733](https://www.cnvd.org.cn/flaw/show/CNVD-2024-05733)
+[CNVD-2024-05734](https://www.cnvd.org.cn/flaw/show/CNVD-2024-05734)
+[CNVD-2024-05735](https://www.cnvd.org.cn/flaw/show/CNVD-2024-05735)
+[CNVD-2024-05736](https://www.cnvd.org.cn/flaw/show/CNVD-2024-05736)
