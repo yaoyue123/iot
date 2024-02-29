@@ -25,3 +25,4 @@
 [CNVD-2024-05734](https://www.cnvd.org.cn/flaw/show/CNVD-2024-05734)
 [CNVD-2024-05735](https://www.cnvd.org.cn/flaw/show/CNVD-2024-05735)
 [CNVD-2024-05736](https://www.cnvd.org.cn/flaw/show/CNVD-2024-05736)
+[CNVD-2024-09983](https://www.cnvd.org.cn/flaw/show/CNVD-2024-09983)
